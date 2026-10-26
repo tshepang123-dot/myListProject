@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "botlhale",
+      "surname": "sebego",
+      "email": "section@gmail.com",
+      "cellNumber": "0821009878",
+      "password": "20070403",
+      "id": "768cece0-f09b-4908-b1b9-cf00360d56a2"
+    },
+    {
+      "name": "Tshepang",
+      "surname": "Matamela",
+      "email": "tshepang@gmail",
+      "cellNumber": "0763521666",
+      "password": "kimberley",
+      "id": "1de44025-9df6-4361-9f4b-19f06f6bb2c4"
+    }
+  ],
+  "shoppingLists": [],
+  "items": []
+}

@@ -1,0 +1,40 @@
+
+.category-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  max-width: 260px;
+}
+
+.category-filter label {
+  color: #D8D8DC;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.category-filter select {
+  width: 100%;
+  padding: 12px;
+  background: #1E1E20;
+  color: #FFFFFF;
+  border: 1px solid #2E2E31;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+}
+
+.category-filter select:focus {
+  border-color: #FF6B2C;
+}
+
+.category-filter option {
+  background: #1E1E20;
+  color: #FFFFFF;
+}
+
+@media (max-width: 480px) {
+  .category-filter {
+    max-width: 100%;
+  }
+}
